@@ -5,4 +5,4 @@ How to implement a side menu (hamburger menu) in SwiftUI
 Simple as fuck: just follow the data flow principle in SwiftUI.
 
 ## How does it looks like
-![view](https://github.com/Dartrisen/SideMenu/blob/master/view.png)
+<img src="https://github.com/Dartrisen/SideMenu/blob/master/view.png" width="25%" height="25%">
